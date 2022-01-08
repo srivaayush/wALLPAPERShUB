@@ -53,7 +53,7 @@ class _ImageViewState extends State<ImageView> {
                         width: MediaQuery.of(context).size.width / 2,
                         height: 50,
                         decoration: BoxDecoration(
-                          color: const Color(0xff1C1B1B).withOpacity(0.8),
+                          color: const Color(0xFF181717).withOpacity(0.8),
                           borderRadius: BorderRadius.circular(40),
                         ),
                       ),
